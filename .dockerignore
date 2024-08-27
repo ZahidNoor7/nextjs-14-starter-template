@@ -1,0 +1,14 @@
+.DS_Store
+
+# add git-ignore syntax here of things you don't want copied into docker image
+
+.git
+.results
+scripts
+
+node_modules
+.next/cache
+README.md
+LICENSE
+# Exclude pages directory
+# pages
